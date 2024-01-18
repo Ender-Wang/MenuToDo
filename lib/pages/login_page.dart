@@ -34,7 +34,8 @@ class LoginPage extends StatelessWidget {
             children: [
               // Logo
               Image.asset(
-                'lib/images/launch_logo.png',
+                'lib/images/todo_rainbow.icns',
+                width: 148,
               ),
 
               //Slogan
