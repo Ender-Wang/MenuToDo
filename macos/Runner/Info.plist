@@ -13,7 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>$(PRODUCT_NAME)</string>
+	<!-- <string>$(PRODUCT_NAME)</string> -->
+	<!-- TODO on Release: Undo comment on line above and remove the line below -->
+	<string>Menu ToDo</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
